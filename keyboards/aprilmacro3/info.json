@@ -1,0 +1,12 @@
+{
+  "keyboard_name": "AprilMacro3",
+  "url": "",
+  "maintainer": "qmk",
+  "width": 3,
+  "height": 1,
+  "layouts": {
+    "LAYOUT_ortho_1x3": {
+      "layout": [{"x":0, "y":0}, {"x":1, "y":0}, {"x":2, "y":0}]
+    }
+  }
+}
